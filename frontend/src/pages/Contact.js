@@ -1,0 +1,1 @@
+import React from 'react';export default ()=> (<><div className='container'><h1>Contact</h1><p>Email: support@campusevents.com</p></div></>);
